@@ -31,8 +31,10 @@
     <tbody>
         <tr>
             <td colspan="2" valign="top">
-                <img
-                    src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59099623" />
+                <a href="https://www.credential.net/32276262-9c27-4cdb-a582-fcc7e0769064#gs.dva0qt">
+                    <img
+                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59099623" />
+                </a>
             </td>
         </tr>
     </tbody>
