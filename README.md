@@ -1,3 +1,4 @@
+<h1>Github Activity</h1>
 <table>
     <tbody>
         <tr>
@@ -24,4 +25,17 @@
         </tr>
     </tbody>
 </table>
+
+<h1>Certificates</h1>
+<table>
+    <tbody>
+        <tr>
+            <td colspan="2" valign="top">
+                <img
+                    src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59099623" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
