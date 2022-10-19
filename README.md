@@ -53,8 +53,8 @@
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=wedding_invitation" />
             </td>
             <td valign="top">
-                <a href="https://github.com/jack456054/texas_poker">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=texas_poker" />
+                <a href="https://github.com/jack456054/gstsol">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=gstsol" />
             </td>
         </tr>
     </tbody>
