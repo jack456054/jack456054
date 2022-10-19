@@ -40,4 +40,22 @@
     </tbody>
 </table>
 
-
+<h1>Projects</h1>
+<table>
+    <tbody>
+        <tr>
+            <td valign="top">
+                <a href="https://github.com/jack456054/leetcode">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=leetcode" />
+            </td>
+            <td valign="top">
+                <a href="https://github.com/jack456054/wedding_invitation">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=wedding_invitation" />
+            </td>
+            <td valign="top">
+                <a href="https://github.com/jack456054/texas_poker">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=texas_poker" />
+            </td>
+        </tr>
+    </tbody>
+</table>
