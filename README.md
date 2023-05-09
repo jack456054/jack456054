@@ -30,19 +30,19 @@
 <table>
     <tbody>
         <tr>
-            <td colspan="3" valign="top">
+            <td valign="top">
                 <a href="https://google.accredible.com/63b8c696-73e5-479e-bd99-bc5a3ecac42a">
                     <img
                         src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72938203" />
                 </a>
             </td>
-            <td colspan="3" valign="top">
+            <td valign="top">
                 <a href="https://google.accredible.com/615183f0-e57a-421a-83fb-ff5a956a27dd">
                     <img
                         src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71990118" />
                 </a>
             </td>
-            <td colspan="3" valign="top">
+            <td valign="top">
                 <a href="https://www.credential.net/32276262-9c27-4cdb-a582-fcc7e0769064#gs.dva0qt">
                     <img
                         src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59099623" />
