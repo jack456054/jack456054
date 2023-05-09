@@ -4,7 +4,7 @@
         <tr>
             <td colspan="2" valign="top">
                 <img
-                    src="https://activity-graph.herokuapp.com/graph?username=jack456054&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" />
+                    src="https://github-readme-activity-graph.cyclic.app/graph?username=jack456054&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" />
             </td>
         </tr>
         <tr>
