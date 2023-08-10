@@ -33,19 +33,22 @@
             <td valign="top">
                 <a href="https://google.accredible.com/63b8c696-73e5-479e-bd99-bc5a3ecac42a">
                     <img
-                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72938203" />
+                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72938203" 
+                        width="150px"/>
                 </a>
             </td>
             <td valign="top">
                 <a href="https://google.accredible.com/615183f0-e57a-421a-83fb-ff5a956a27dd">
                     <img
-                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71990118" />
+                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71990118"
+                        width="150px" />
                 </a>
             </td>
             <td valign="top">
                 <a href="https://www.credential.net/32276262-9c27-4cdb-a582-fcc7e0769064#gs.dva0qt">
                     <img
-                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59099623" />
+                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59099623" 
+                        width="150px"/>
                 </a>
             </td>
         </tr>
