@@ -60,8 +60,8 @@
     <tbody>
         <tr>
             <td valign="top">
-                <a href="https://github.com/jack456054/leetcode">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=leetcode" />
+                <a href="https://github.com/jack456054/selenium-google-authenticator">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jack456054&repo=selenium-google-authenticator" />
             </td>
             <td valign="top">
                 <a href="https://github.com/jack456054/wedding_invitation">
