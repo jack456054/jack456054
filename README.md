@@ -31,6 +31,13 @@
     <tbody>
         <tr>
             <td valign="top">
+                <a href="https://google.accredible.com/91b6a034-228b-492a-b612-e5ec4628cfd6">
+                    <img
+                        src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87893703" 
+                        width="150px"/>
+                </a>
+            </td>
+            <td valign="top">
                 <a href="https://google.accredible.com/63b8c696-73e5-479e-bd99-bc5a3ecac42a">
                     <img
                         src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72938203" 
@@ -45,7 +52,7 @@
                 </a>
             </td>
             <td valign="top">
-                <a href="https://www.credential.net/32276262-9c27-4cdb-a582-fcc7e0769064#gs.dva0qt">
+                <a href="https://www.credential.net/32276262-9c27-4cdb-a582-fcc7e0769064">
                     <img
                         src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59099623" 
                         width="150px"/>
